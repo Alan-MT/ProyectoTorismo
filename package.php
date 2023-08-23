@@ -39,7 +39,7 @@
         <div class="box-container">
             <div class="box">
                 <div class="image">
-                    <img src="/imagen/imagen-1.jpg" alt="">
+                    <img src="/imagen/imagen-1.jpg" alt=""/>
                 </div>
                 <div class="content">
                     <h3>Lago de Atitlan</h3>
@@ -51,7 +51,7 @@
 
         <div class="box">
                 <div class="image">
-                    <img src="/imagen/imagen-2.png" alt="">
+                    <img src="/imagen/imagen-2.png" alt=""/>
                 </div>
                 <div class="content">
                     <h3>Lago de Atitlan</h3>
@@ -64,7 +64,7 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="/imagen/imagen-3.jpg" alt="">
+                    <img src="/imagen/imagen-3.jpg" alt=""/>
                 </div>
                 <div class="content">
                     <h3>Antigua Guatemala</h3>

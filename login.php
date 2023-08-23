@@ -37,19 +37,19 @@
             </div>
             <form action="book_form.php" method="POST">
             <div class="input-box">
-                <input type="text" class="input-field" placeholder="Email" name="email" required="true">
+                <input type="text" class="input-field" placeholder="Email" name="email" required="true"/>
                 <i class="bx bx-user"></i>
             </div>
             <div class="input-box">
-                <input type="password" class="input-field" placeholder="Contraseña" name="contrasenia" required="true">
+                <input type="password" class="input-field" placeholder="Contraseña" name="contrasenia" required="true"/>
                 <i class="bx bx-lock-alt"></i>
             </div>
             <div class="input-box">
-                <input type="submit" class="submit" value="Iniciar Sesion" name="sesion" >
+                <input type="submit" class="submit" value="Iniciar Sesion" name="sesion"/>
             </div>
             <div class="two-col">
                 <div class="one">
-                    <input type="checkbox" id="login-check" >
+                    <input type="checkbox" id="login-check" />
                     <label for="login-check"> Recordar</label>
                 </div>
                 <div class="two">
@@ -69,28 +69,28 @@
             <form action="book_form.php" method="post">
             <div class="two-forms">
                 <div class="input-box">
-                    <input type="text" class="input-field" placeholder="Nombre" name="nombre" required="true">
+                    <input type="text" class="input-field" placeholder="Nombre" name="nombre" required="true"/>
                     <i class="bx bx-user"></i>
                 </div>
                 <div class="input-box">
-                    <input type="text" class="input-field" placeholder="Apellido" name="apellido" required="true">
+                    <input type="text" class="input-field" placeholder="Apellido" name="apellido" required="true"/>
                     <i class="bx bx-user"></i>
                 </div>
             </div>
             <div class="input-box">
-                <input type="email" class="input-field" placeholder="Email" name="email" required="true">
+                <input type="email" class="input-field" placeholder="Email" name="email" required="true"/>
                 <i class="bx bx-envelope"></i>
             </div>
             <div class="input-box">
-                <input type="password" class="input-field" placeholder="Contraseña" name="contrasenia" required="true">
+                <input type="password" class="input-field" placeholder="Contraseña" name="contrasenia" required="true"/>
                 <i class="bx bx-lock-alt"></i>
             </div>
             <div class="input-box">
-                <input type="submit" class="submit" value="Registrar" name="regis">
+                <input type="submit" class="submit" value="Registrar" name="regis"/>
             </div>
             <div class="two-col">
                 <div class="one">
-                    <input type="checkbox" id="register-check">
+                    <input type="checkbox" id="register-check"/>
                     <label for="register-check"> Recordar</label>
                 </div>
             </div>

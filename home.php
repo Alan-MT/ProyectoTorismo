@@ -59,7 +59,7 @@
 
      <section class="home-about">
         <div class="image">
-            <img src="imagen/aboutus.jpg" alt="">
+            <img src="imagen/aboutus.jpg" alt=""/>
         </div>
         <div class="content">
             <h3>Acerca de Nosotros</h3>
