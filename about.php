@@ -20,7 +20,7 @@
             <a href="about.php">Acerca de</a>
             <a href="package.php">Paquete</a>
             <a href="book.php">Registro</a>
-            <a href="check.php">Verificar</a>
+            <a href="/login.php">Salir</a>
         </nav>
 
         <div id="menu-btn" class="fas fa-bars"></div>

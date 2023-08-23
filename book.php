@@ -20,7 +20,7 @@
             <a href="about.php">Acerca de</a>
             <a href="package.php">Paquete</a>
             <a href="book.php">Registro</a>
-            <a href="check.php">Verificar</a>
+            <a href="/login.php">Salir</a>
         </nav>
 
         <div id="menu-btn" class="fas fa-bars"></div>
@@ -39,35 +39,35 @@
                 <div class="flex">
                     <div class="inputBox">
                         <span>Nombre:</span>
-                        <input type="text" placeholder="Ingresa tu nombre" name="name">
+                        <input type="text" placeholder="Ingresa tu nombre" name="name"  required="true">
                     </div>
                     <div class="inputBox">
                         <span>Correo Electronico:</span>
-                        <input type="email" placeholder="Ingresa tu correo" name="email">
+                        <input type="email" placeholder="Ingresa tu correo" name="email" required="true">
                     </div>
                     <div class="inputBox">
                         <span>Telefono:</span>
-                        <input type="number" placeholder="Ingresa tu numero" name="pho  ne">
+                        <input type="number" placeholder="Ingresa tu numero" name="phone" required="true">
                     </div>
                     <div class="inputBox">
                         <span>Direccion:</span>
-                        <input type="text" placeholder="Ingresa tu direccion" name="address">
+                        <input type="text" placeholder="Ingresa tu direccion" name="address" required="true">
                     </div>
                     <div class="inputBox">
                         <span>Hacia donde:</span>
-                        <input type="text" placeholder="Lugar a visitar" name="location">
+                        <input type="text" placeholder="Lugar a visitar" name="location" required="true">
                     </div>
                     <div class="inputBox">
                         <span>Cuanto:</span>
-                        <input type="number" placeholder="Acompañantes" name="guests">
+                        <input type="number" placeholder="Acompañantes" name="guests" required="true">
                     </div>
                     <div class="inputBox">
                         <span>LLegada:</span>
-                        <input type="date" name="arrivals">
+                        <input type="date" name="arrivals" required="true">
                     </div>
                     <div class="inputBox">
                         <span>Salida:</span>
-                        <input type="date" name="leaving">
+                        <input type="date" name="leaving" required="true">
                     </div>
                 </div>
 
